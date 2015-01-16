@@ -1,3 +1,7 @@
 autopublish
 insecure
 meteor-platform
+accounts-ui
+accounts-facebook
+accounts-password
+accounts-google
